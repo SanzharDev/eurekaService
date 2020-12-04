@@ -1,0 +1,4 @@
+#giving name to our eureka server
+spring:
+  application:
+    name: eureka-server
